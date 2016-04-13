@@ -1,5 +1,4 @@
 # hello-world
-following the GitHub hello world tutorial
+Following the GitHub hello world tutorial.
 
-
-this is also a change.
+Et Me, buddy.
